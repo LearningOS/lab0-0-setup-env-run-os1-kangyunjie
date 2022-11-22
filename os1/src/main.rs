@@ -29,7 +29,6 @@ pub fn rust_main() -> ! {
         fn erodata();
         fn sdata();
         fn edata();
-        
         fn sbss();
         fn ebss();
         fn boot_stack();
